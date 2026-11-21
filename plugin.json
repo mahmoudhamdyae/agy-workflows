@@ -1,0 +1,24 @@
+{
+  "name": "global-workflows",
+  "version": "1.0.0",
+  "description": "Complete suite of 18 intelligent, reusable global workflows for Antigravity IDE spanning Git, Project Analysis, Development, UI/UX, Testing, Security, and Delivery.",
+  "author": {
+    "name": "Senior Software Architect & DevOps Engineer"
+  },
+  "homepage": "https://antigravity.google/docs/skills",
+  "keywords": [
+    "antigravity",
+    "workflows",
+    "git",
+    "flutter",
+    "nextjs",
+    "react",
+    "laravel",
+    "nodejs",
+    "code-review",
+    "ui-ux",
+    "security-audit",
+    "testing",
+    "devops"
+  ]
+}
